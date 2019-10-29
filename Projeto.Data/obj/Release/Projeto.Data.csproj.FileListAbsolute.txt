@@ -1,0 +1,12 @@
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\Projeto.Data.dll.config
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\Projeto.Data.dll
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\Projeto.Data.pdb
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\EntityFramework.dll
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\EntityFramework.xml
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\obj\Release\Projeto.Data.csprojAssemblyReference.cache
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\obj\Release\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\obj\Release\Projeto.Data.csproj.CopyComplete
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\obj\Release\Projeto.Data.dll
+C:\RosineaRibeiro\aula_28102019_ultima\Aula27\Projeto.Data\obj\Release\Projeto.Data.pdb
